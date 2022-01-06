@@ -7,3 +7,4 @@ See around if theres anything you would like to try :)
 2. IndexLinkGrabber (copy links from a now non-functional website and pasting into clipboard for bulk download).  
 3. InstaGrabber (Downloads the instagram images from a given account in highest quality)
 4. MangaGrabber (Downloads the whole manga from mangasee, using XML link to the manga entry, and repacks it into cbz comic file chapter wise).
+5. AnimeEpisodeRename (Renames your anime episode files, using anidb database, includes the episode names as well!)
