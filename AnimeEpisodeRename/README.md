@@ -5,4 +5,6 @@ Can't we just fetch the episode names and rename them. And so I did that, made a
 2. anime name
 3. anime season
 4. anidb anime ID
-And then it renames the video files as you want them, it can include the episode names as well. You can change the format string to your liking.
+And then it renames the video files as you want them, it can include the episode names as well. You can change the format string to your liking. 
+
+## You can use either the jupyter notebook, or the python script (.py file, it also asks for user input.)
